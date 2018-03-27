@@ -1,0 +1,31 @@
+{
+  "name": "wdio-partialscreenshot",
+  "version": "1.0.0",
+  "description": "webdriverio extension to take partial screenshot with gm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmtiong/wdio-partialscreenshot.git"
+  },
+  "dependencies": {
+    "gm": ">=1.23.1",
+    "webdriverio": ">=4.10.2"
+  },
+  "keywords": [
+    "webdriverio",
+    "screenshot",
+    "partial"
+  ],
+  "author": "Tiong Jia Ming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmtiong/wdio-partialscreenshot/issues"
+  },
+  "homepage": "https://github.com/jmtiong/wdio-partialscreenshot#readme",
+  "engines": {
+    "node": ">=4"
+  }
+}
